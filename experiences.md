@@ -28,7 +28,7 @@ title: Expériences & Compétences - Yacine Yefsah
   <a href="./experiences.html" class="nav-link">💼 Expériences</a>
 </div>
 
-# 💼 Parcours & Compétences
+# 💼 Expériences & Compétences
 
 <h2 class="section-title">🛠️ Langages & Systèmes</h2>
 <div class="skill-container">
