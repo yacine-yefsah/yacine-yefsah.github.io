@@ -3,9 +3,9 @@ layout: default
 title: Mes Projets - Yacine Yefsah
 ---
 
-# 📂 Mes Projets Data Science & Statistiques
+# Mes Projets Data Science & Statistiques
 
-Retrouvez ici mes réalisations en Machine Learning, Modélisation et Optimisation, effectuées dans le cadre de mon Master 1 SAAD.
+Retrouvez ici une sélection de mes travaux en science des données. Ces projets, issus de mon Master 1 SAAD ou de recherches personnelles, illustrent mon approche de l'analyse statistique et de la valorisation de la donnée.
 
 ---
 
