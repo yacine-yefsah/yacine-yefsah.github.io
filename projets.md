@@ -13,7 +13,7 @@ Retrouvez ici mes réalisations en Machine Learning, Modélisation et Optimisati
 **Objectif :** Prédire la valeur médiane des logements en analysant les variables socio-économiques.
 - **Rigueur Statistique :** Traitement des outliers (méthode IQR) permettant de passer d'un $R^2$ de 0.66 à **0.75**.
 - **Outils :** Python, Scikit-Learn, Seaborn.
-[Voir le Repo GitHub](https://github.com/yacine-yefsah/Immobilier-Prediction-ML) {: .btn .btn-purple}
+[Voir le Repo GitHub](https://github.com/yacine-yefsah/Immobilier-Prediction-ML) 
 
 ---
 
