@@ -61,13 +61,27 @@ title: Accueil
 
 # Yacine Yefsah 
 **Étudiant en Master 1 SAAD | Université de Caen**
+
 <div class="search-badge">
   🎯 À la recherche d’un stage de 3 à 4 mois à partir de mai 2026, et reste également ouvert à une opportunité d’alternance.
 </div>
 
-<div style="margin-top: 20px;">
-  <a href="./projets.html" class="custom-btn btn-main">📁 Voir mes Projets</a>
-  <a href="./CV_Yacine_Yefsah.pdf" class="custom-btn btn-cv">📄 Télécharger mon CV</a>
+---
+
+### Mon Parcours académique
+<div class="timeline">
+  <div class="event">
+    <strong>2025 - Présent : Master 1 SAAD</strong><br>
+    Statistique Appliquée et Analyse Décisionnelle | <em>Université de Caen Normandie</em>
+  </div>
+  <div class="event">
+    <strong>2023 - 2025 : Licence MIASHS</strong><br>
+    Mathématiques et informatique appliquées aux sciences humaines et sociales | <em>Université de Caen Normandie</em>
+  </div>
+  <div class="event">
+    <strong>2020 - 2023 : Licence en Mathématiques et Informatique</strong><br>
+    <em>Université des Sciences et de la Technologie Houari Boumediene, Algérie</em>
+  </div>
 </div>
 
 ---
@@ -80,18 +94,7 @@ title: Accueil
 
 ---
 
-### 🎓 Mon Parcours académique
-<div class="timeline">
-  <div class="event">
-    <strong>2025 - Présent : Master 1 SAAD</strong><br>
-    Statistique Appliquée et Analyse Décisionnelle | <em>Université de Caen Normandie</em>
-  </div>
-  <div class="event">
-    <strong>2023 - 2025 : Licence MIASHS</strong><br>
-    Mathématiques et informatique appliquées aux sciences humaines et sociales | <em>Université de Caen Normandie</em>
-  </div>
-  <div class="event">
-    <strong>2020 - 2023 : Licence en Mathématiques et Informatique</strong><br>
-     <em>Université des Sciences et de la Technologie Houari Boumediene, Algérie</em>
-  </div>
+<div style="margin-top: 30px;">
+  <a href="./projets.html" class="custom-btn btn-main">📁 Voir mes Projets</a>
+  <a href="./CV_Yacine_Yefsah.pdf" class="custom-btn btn-cv">📄 Télécharger mon CV</a>
 </div>
