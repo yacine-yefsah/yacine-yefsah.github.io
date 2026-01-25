@@ -3,7 +3,7 @@ layout: default
 title: Accueil
 ---
 
-# Yacine Yefsah 📊
+# Yacine Yefsah 
 **Étudiant en Master 1 SAAD | Université de Caen**
 
 Bienvenue sur mon portfolio professionnel. Je me spécialise dans la statistique appliquée et l'analyse de données.
