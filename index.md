@@ -1,14 +1,21 @@
 ---
 layout: default
+title: Accueil
 ---
 
 # Yacine Yefsah 📊
-**Master 1 SAAD - Université de Caen**
+**Étudiant en Master 1 SAAD | Université de Caen**
 
-Bienvenue sur mon portfolio professionnel.
+Bienvenue sur mon portfolio professionnel. Je me spécialise dans la statistique appliquée et l'analyse de données.
+
+---
 
 ### 📞 Coordonnées
-- **LinkedIn :** [Lien vers mon profil](https://www.linkedin.com/in/yacine-yefsah)
-- **Email :** yacine.yefsah@exemple.com
+- **LinkedIn :** [YEFSAH Yacine](https://www.linkedin.com/in/yacine-yefsah-00a152290/)
+- **Email :** [yacine.yefsah@exemple.com](yyacine2909@gmail.com)
+- **Ville :** Caen, France
 
-[📁 Voir mes Projets](./projets.html) {: .btn}
+---
+
+[📁 Mes Projets](./projets.html) {: .btn}
+[💼 Mon Parcours](./experiences.html) {: .btn}
