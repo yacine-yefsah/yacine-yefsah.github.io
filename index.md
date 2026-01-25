@@ -64,7 +64,6 @@ title: Accueil
 <div class="search-badge">
   🎯 À la recherche d’un stage de 3 à 4 mois à partir de mai 2026, et reste également ouvert à une opportunité d’alternance.
 </div>
-Bienvenue sur mon portfolio professionnel. Spécialisé en **Statistique Appliquée** et **Analyse de Données**, je combine rigueur mathématique et outils informatiques pour valoriser la donnée.
 
 <div style="margin-top: 20px;">
   <a href="./projets.html" class="custom-btn btn-main">📁 Voir mes Projets</a>
