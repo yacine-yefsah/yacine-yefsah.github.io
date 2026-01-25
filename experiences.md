@@ -19,6 +19,7 @@ title: Expériences & Compétences - Yacine Yefsah
   .skill-badge { background: #34495e; color: white; padding: 5px 12px; border-radius: 15px; font-size: 0.85em; }
   .skill-badge-tech { background: #3498db; }
   .skill-badge-metier { background: #27ae60; }
+  .skill-badge-tools { background: #6c757d; }
 </style>
 
 <div class="nav-container">
@@ -29,11 +30,7 @@ title: Expériences & Compétences - Yacine Yefsah
 
 # 💼 Parcours & Compétences
 
-<div style="background-color: #f1f8ff; padding: 15px; border-radius: 8px; border: 1px solid #c8e1ff; margin-bottom: 20px;">
-  <strong>Profil :</strong> Étudiant en Master 1 Statistiques Appliquées et Analyse Décisionnelle, je suis à la recherche d’un stage de 3 à 4 mois à partir de mai 2026, et reste également ouvert à une opportunité d’alternance.
-</div>
-
-<h2 class="section-title">🛠️ Compétences Techniques</h2>
+<h2 class="section-title">🛠️ Langages & Systèmes</h2>
 <div class="skill-container">
   <span class="skill-badge skill-badge-tech">Python</span>
   <span class="skill-badge skill-badge-tech">R</span>
@@ -43,49 +40,56 @@ title: Expériences & Compétences - Yacine Yefsah
   <span class="skill-badge skill-badge-tech">MySQL</span>
   <span class="skill-badge skill-badge-tech">PostgreSQL</span>
   <span class="skill-badge skill-badge-tech">Oracle</span>
-  <span class="skill-badge skill-badge-tech">Power BI</span>
-  <span class="skill-badge skill-badge-tech">Tableau</span>
-  <span class="skill-badge skill-badge-tech">Excel</span>
-  <span class="skill-badge skill-badge-tech">Git/GitHub</span>
 </div>
 
-<h2 class="section-title">📊 Compétences Métiers</h2>
+<h2 class="section-title">💻 Environnements & Outils</h2>
+<div class="skill-container">
+  <span class="skill-badge skill-badge-tools">VS Code</span>
+  <span class="skill-badge skill-badge-tools">Jupyter Notebook</span>
+  <span class="skill-badge skill-badge-tools">RStudio</span>
+  <span class="skill-badge skill-badge-tools">Google Colab</span>
+  <span class="skill-badge skill-badge-tools">Git / GitHub</span>
+  <span class="skill-badge skill-badge-tools">Power BI</span>
+  <span class="skill-badge skill-badge-tools">Tableau</span>
+  <span class="skill-badge skill-badge-tools">Pack Office</span>
+</div>
+
+<h2 class="section-title">📊 Expertise Métier</h2>
 <div class="skill-container">
   <span class="skill-badge skill-badge-metier">Modélisation statistique</span>
   <span class="skill-badge skill-badge-metier">Machine Learning (Scikit-Learn)</span>
   <span class="skill-badge skill-badge-metier">Bases de Données</span>
-  <span class="skill-badge skill-badge-metier">Visualisation et interprétation</span>
+  <span class="skill-badge skill-badge-metier">Visualisation de données</span>
   <span class="skill-badge skill-badge-metier">Analyse décisionnelle</span>
 </div>
 
 <h2 class="section-title">👨‍💻 Expériences Professionnelles</h2>
 
 <div class="exp-card">
-  <div class="exp-date">Stage</div>
+  <div class="exp-date">Stage Académique</div>
   <strong>Stagiaire en Mathématiques Appliquées</strong> | Algérie Telecom
   <ul>
-    <li>Analyser des jeux de données pour détecter des tendances et anomalies simples.</li>
-    <li>Réaliser des tableaux et graphiques pour faciliter la compréhension des résultats.</li>
-    <li>Préparer et structurer les données issues des systèmes internes pour les rendre exploitables.</li>
+    <li>Analyse de jeux de données pour la détection de tendances.</li>
+    <li>Conception de tableaux de bord et graphiques décisionnels.</li>
+    <li>Structuration de données internes pour exploitation statistique.</li>
   </ul>
 </div>
 
 <div class="exp-card">
-  <div class="exp-date">Depuis Février 2024</div>
+  <div class="exp-date">Depuis Février 2024 (Job Étudiant)</div>
   <strong>Équipier polyvalent</strong> | Domino’s Pizza, Caen
-  <p><em>Compétences développées :</em> Gestion du temps, Organisation, Travail en équipe, Service client, Autonomie, Communication.</p>
+  <p>Développement de compétences transversales : Gestion du stress, travail d'équipe en flux tendu, organisation et relation client.</p>
 </div>
 
-<h2 class="section-title">🧠 Soft Skills (Transversaux)</h2>
+<h2 class="section-title">🧠 Soft Skills</h2>
 <div class="skill-container">
-  <span class="skill-badge">Relationnel</span>
+  <span class="skill-badge">Rigoureux</span>
   <span class="skill-badge">Curieux</span>
   <span class="skill-badge">Collaboratif</span>
-  <span class="skill-badge">Rigoureux</span>
   <span class="skill-badge">Autonome</span>
   <span class="skill-badge">Créatif</span>
 </div>
 
 <div style="margin-top: 40px; text-align: center;">
-  <a href="./index.html" style="text-decoration: none;">⬅️ Retour à l'accueil</a>
+  <a href="./index.html" style="text-decoration: none; font-weight: bold; color: #3498db;">⬅️ Retour à l'accueil</a>
 </div>
