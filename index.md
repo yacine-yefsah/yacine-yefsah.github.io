@@ -21,7 +21,7 @@ title: Accueil
     position: sticky;
     top: 0;
     z-index: 1000;
-    width: calc(100% + 60px); /* Ajustement pour compenser les marges du thème */
+    width: calc(100% + 60px);
   }
   .nav-link {
     color: white !important;
@@ -60,10 +60,9 @@ title: Accueil
     border-radius: 50%;
   }
 
-  /* Centrage de la recherche de stage en gras */
+  /* Centrage de la recherche de stage sans les étoiles */
   .search-badge-centered {
     text-align: center;
-    font-weight: bold;
     margin: 40px 0;
     font-size: 1.2em;
     width: 100%;
@@ -80,7 +79,7 @@ title: Accueil
 **Étudiant en Master 1 SAAD | Université de Caen**
 
 <div class="search-badge-centered">
-  🎯 **À la recherche d’un stage de 3 à 4 mois à partir de mai 2026, et reste également ouvert à une opportunité d’alternance.**
+  <strong>🎯 À la recherche d’un stage de 3 à 4 mois à partir de mai 2026, et reste également ouvert à une opportunité d’alternance.</strong>
 </div>
 
 ---
