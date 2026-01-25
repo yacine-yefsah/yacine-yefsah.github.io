@@ -87,6 +87,10 @@ title: Accueil
     Statistique Appliquée et Analyse Décisionnelle | <em>Université de Caen Normandie</em>
   </div>
   <div class="event">
+    <strong>2023 - 2025 : Licence MIASHS</strong><br>
+    Mathématiques et informatique appliquées aux sciences humaines et sociales | <em>Université de Caen Normandie</em>
+  </div>
+  <div class="event">
     <strong>2020 - 2023 : Licence en Mathématiques et Informatique</strong><br>
      <em>Université des Sciences et de la Technologie Houari Boumediene, Algérie</em>
   </div>
