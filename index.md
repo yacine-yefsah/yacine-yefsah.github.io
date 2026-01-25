@@ -87,11 +87,7 @@ title: Accueil
     Statistique Appliquée et Analyse Décisionnelle | <em>Université de Caen Normandie</em>
   </div>
   <div class="event">
-    <strong>2021 - 2024 : Licence Mathématiques & Informatique</strong><br>
-    Spécialité Statistique | <em>[Nom de ton Université]</em>
-  </div>
-  <div class="event">
-    <strong>2021 : Baccalauréat Scientifique</strong><br>
-    Mention [Ta mention] | <em>[Nom de ton Lycée]</em>
+    <strong>2020 - 2023 : Licence en Mathématiques et Informatique</strong><br>
+     <em>[USTHB, Algérie]</em>
   </div>
 </div>
