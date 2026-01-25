@@ -21,7 +21,7 @@ Retrouvez ici mes réalisations en Machine Learning, Modélisation et Optimisati
 **Objectif :** Prédire le prix de +50 000 diamants selon leurs caractéristiques physiques.
 - **Résultat :** Score **$R^2$ de 0.98**, capturant les relations non-linéaires entre le carat et la clarté.
 - **Outils :** Random Forest Regressor, One-Hot Encoding.
-[Voir le Repo GitHub](https://github.com/yacine-yefsah/Diamonds-Price-Prediction-ML) {: .btn .btn-purple}
+[Voir le Repo GitHub](https://github.com/yacine-yefsah/Diamonds-Price-Prediction-ML)  {: .btn .btn-purple}
 
 ---
 
