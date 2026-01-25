@@ -51,6 +51,14 @@ title: Accueil
     background: #3498db;
     border-radius: 50%;
   }
+
+  /* Centrage de la recherche de stage */
+  .search-badge-centered {
+    text-align: center;
+    font-weight: bold;
+    margin: 30px 0;
+    font-size: 1.1em;
+  }
 </style>
 
 <div class="nav-container">
@@ -62,13 +70,13 @@ title: Accueil
 # Yacine Yefsah 
 **Étudiant en Master 1 SAAD | Université de Caen**
 
-<div class="search-badge">
-  🎯 À la recherche d’un stage de 3 à 4 mois à partir de mai 2026, et reste également ouvert à une opportunité d’alternance.
+<div class="search-badge-centered">
+  🎯 **À la recherche d’un stage de 3 à 4 mois à partir de mai 2026, et reste également ouvert à une opportunité d’alternance.**
 </div>
 
 ---
 
-### Mon Parcours académique
+### 🎓 Mon Parcours académique
 <div class="timeline">
   <div class="event">
     <strong>2025 - Présent : Master 1 SAAD</strong><br>
@@ -94,7 +102,7 @@ title: Accueil
 
 ---
 
-<div style="margin-top: 30px;">
+<div style="margin-top: 30px; text-align: center;">
   <a href="./projets.html" class="custom-btn btn-main">📁 Voir mes Projets</a>
   <a href="./CV_Yacine_Yefsah.pdf" class="custom-btn btn-cv">📄 Télécharger mon CV</a>
 </div>
