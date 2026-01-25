@@ -56,7 +56,7 @@ title: Accueil
 <div class="nav-container">
   <a href="./index.html" class="nav-link">🏠 Accueil</a>
   <a href="./projets.html" class="nav-link">📊 Projets</a>
-  <a href="./experiences.html" class="nav-link">💼 Parcours</a>
+  <a href="./experiences.html" class="nav-link">💼 Expériences</a>
 </div>
 
 # Yacine Yefsah 
