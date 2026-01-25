@@ -88,6 +88,6 @@ title: Accueil
   </div>
   <div class="event">
     <strong>2020 - 2023 : Licence en Mathématiques et Informatique</strong><br>
-     <em>[USTHB, Algérie]</em>
+     <em>Université des Sciences et de la Technologie Houari Boumediene, Algérie</em>
   </div>
 </div>
