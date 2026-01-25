@@ -4,16 +4,24 @@ title: Accueil
 ---
 
 <style>
+  /* Force le conteneur principal du thème à prendre toute la largeur */
+  .main-content {
+    max-width: 100% !important;
+    padding: 2rem 2rem !important;
+    margin: 0 !important;
+  }
+
   /* Barre de navigation en haut */
   .nav-container {
     display: flex;
     justify-content: center;
     background: #2c3e50;
     padding: 12px;
-    margin: -30px -30px 30px -30px; /* Aligné avec le thème Cayman */
+    margin: -30px -30px 30px -30px;
     position: sticky;
     top: 0;
     z-index: 1000;
+    width: calc(100% + 60px); /* Ajustement pour compenser les marges du thème */
   }
   .nav-link {
     color: white !important;
@@ -52,12 +60,13 @@ title: Accueil
     border-radius: 50%;
   }
 
-  /* Centrage de la recherche de stage */
+  /* Centrage de la recherche de stage en gras */
   .search-badge-centered {
     text-align: center;
     font-weight: bold;
-    margin: 30px 0;
-    font-size: 1.1em;
+    margin: 40px 0;
+    font-size: 1.2em;
+    width: 100%;
   }
 </style>
 
