@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Expériences & Compétences - Yacine Yefsah
+title: Expériences & Compétences
 ---
 
 <style>
