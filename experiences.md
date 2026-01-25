@@ -1,10 +1,91 @@
 ---
 layout: default
-title: Expériences
+title: Expériences & Compétences - Yacine Yefsah
 ---
 
-# 💼 Expériences & Parcours
+<style>
+  .nav-container {
+    display: flex; justify-content: center; background: #2c3e50; padding: 12px;
+    margin: -30px -30px 30px -30px; position: sticky; top: 0; z-index: 1000;
+  }
+  .nav-link { color: white !important; margin: 0 15px; text-decoration: none; font-weight: bold; }
+  
+  .section-title { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 5px; margin-top: 30px; }
+  
+  .exp-card { margin-bottom: 20px; padding: 15px; background: #f9f9f9; border-left: 5px solid #3498db; border-radius: 4px; }
+  .exp-date { color: #7f8c8d; font-size: 0.9em; font-weight: bold; }
+  
+  .skill-container { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px; }
+  .skill-badge { background: #34495e; color: white; padding: 5px 12px; border-radius: 15px; font-size: 0.85em; }
+  .skill-badge-tech { background: #3498db; }
+  .skill-badge-metier { background: #27ae60; }
+</style>
 
-*Page en cours de rédaction...*
+<div class="nav-container">
+  <a href="./index.html" class="nav-link">🏠 Accueil</a>
+  <a href="./projets.html" class="nav-link">📊 Projets</a>
+  <a href="./experiences.html" class="nav-link">💼 Expériences</a>
+</div>
 
-[⬅️ Retour à l'accueil]({{ site.baseurl }}/index.html)
+# 💼 Parcours & Compétences
+
+<div style="background-color: #f1f8ff; padding: 15px; border-radius: 8px; border: 1px solid #c8e1ff; margin-bottom: 20px;">
+  <strong>Profil :</strong> Étudiant en Master 1 Statistiques Appliquées et Analyse Décisionnelle, je suis à la recherche d’un stage de 3 à 4 mois à partir de mai 2026, et reste également ouvert à une opportunité d’alternance.
+</div>
+
+<h2 class="section-title">🛠️ Compétences Techniques</h2>
+<div class="skill-container">
+  <span class="skill-badge skill-badge-tech">Python</span>
+  <span class="skill-badge skill-badge-tech">R</span>
+  <span class="skill-badge skill-badge-tech">SQL</span>
+  <span class="skill-badge skill-badge-tech">Java</span>
+  <span class="skill-badge skill-badge-tech">SAS</span>
+  <span class="skill-badge skill-badge-tech">MySQL</span>
+  <span class="skill-badge skill-badge-tech">PostgreSQL</span>
+  <span class="skill-badge skill-badge-tech">Oracle</span>
+  <span class="skill-badge skill-badge-tech">Power BI</span>
+  <span class="skill-badge skill-badge-tech">Tableau</span>
+  <span class="skill-badge skill-badge-tech">Excel</span>
+  <span class="skill-badge skill-badge-tech">Git/GitHub</span>
+</div>
+
+<h2 class="section-title">📊 Compétences Métiers</h2>
+<div class="skill-container">
+  <span class="skill-badge skill-badge-metier">Modélisation statistique</span>
+  <span class="skill-badge skill-badge-metier">Machine Learning (Scikit-Learn)</span>
+  <span class="skill-badge skill-badge-metier">Bases de Données</span>
+  <span class="skill-badge skill-badge-metier">Visualisation et interprétation</span>
+  <span class="skill-badge skill-badge-metier">Analyse décisionnelle</span>
+</div>
+
+<h2 class="section-title">👨‍💻 Expériences Professionnelles</h2>
+
+<div class="exp-card">
+  <div class="exp-date">Stage</div>
+  <strong>Stagiaire en Mathématiques Appliquées</strong> | Algérie Telecom
+  <ul>
+    <li>Analyser des jeux de données pour détecter des tendances et anomalies simples.</li>
+    <li>Réaliser des tableaux et graphiques pour faciliter la compréhension des résultats.</li>
+    <li>Préparer et structurer les données issues des systèmes internes pour les rendre exploitables.</li>
+  </ul>
+</div>
+
+<div class="exp-card">
+  <div class="exp-date">Depuis Février 2024</div>
+  <strong>Équipier polyvalent</strong> | Domino’s Pizza, Caen
+  <p><em>Compétences développées :</em> Gestion du temps, Organisation, Travail en équipe, Service client, Autonomie, Communication.</p>
+</div>
+
+<h2 class="section-title">🧠 Soft Skills (Transversaux)</h2>
+<div class="skill-container">
+  <span class="skill-badge">Relationnel</span>
+  <span class="skill-badge">Curieux</span>
+  <span class="skill-badge">Collaboratif</span>
+  <span class="skill-badge">Rigoureux</span>
+  <span class="skill-badge">Autonome</span>
+  <span class="skill-badge">Créatif</span>
+</div>
+
+<div style="margin-top: 40px; text-align: center;">
+  <a href="./index.html" style="text-decoration: none;">⬅️ Retour à l'accueil</a>
+</div>
