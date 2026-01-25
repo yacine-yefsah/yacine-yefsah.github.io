@@ -74,7 +74,7 @@ Bienvenue sur mon portfolio professionnel. Spécialisé en **Statistique Appliqu
 ### Coordonnées
 - 💼 **LinkedIn :** [YEFSAH Yacine](https://www.linkedin.com/in/yacine-yefsah-00a152290/)
 - 📧 **Email :** [yyacine2909@gmail.com](mailto:yyacine2909@gmail.com)
-- 📱 **Téléphone :** [+33 6 65 16 38 74]
+- 📱 **Téléphone :** +33 6 65 16 38 74
 - 📍 **Ville :** Caen, France
 
 ---
