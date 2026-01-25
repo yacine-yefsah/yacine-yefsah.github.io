@@ -73,7 +73,7 @@ title: Accueil
 ---
 
 ### Coordonnées
-- 💼 **LinkedIn :** [YEFSAH Yacine](https://www.linkedin.com/in/yacine-yefsah-00a152290/)
+- 💼 **LinkedIn :** [Yacine Yefsah](https://www.linkedin.com/in/yacine-yefsah-00a152290/)
 - 📧 **Email :** [yyacine2909@gmail.com](mailto:yyacine2909@gmail.com)
 - 📱 **Téléphone :** +33 6 65 16 38 74
 - 📍 **Ville :** Caen, France
