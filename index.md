@@ -17,5 +17,5 @@ Bienvenue sur mon portfolio professionnel. Je me spécialise dans la statistique
 
 ---
 
-[📁 Mes Projets](./projets.html) {: .btn}
-[💼 Mon Parcours](./experiences.html) {: .btn}
+[📁 Mes Projets](./projets.html)
+[💼 Mon Parcours](./experiences.html) 
