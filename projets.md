@@ -4,14 +4,24 @@ title: Mes Projets
 ---
 
 <style>
+  /* Force le conteneur principal à prendre toute la largeur */
+  .main-content {
+    max-width: 100% !important;
+    padding: 2rem 2rem !important;
+    margin: 0 !important;
+  }
+
   .nav-container {
     display: flex; justify-content: center; background: #2c3e50; padding: 12px;
     margin: -30px -30px 30px -30px; position: sticky; top: 0; z-index: 1000;
+    width: calc(100% + 60px);
   }
   .nav-link { color: white !important; margin: 0 15px; text-decoration: none; font-weight: bold; }
   .project-card {
     border: 1px solid #eee; padding: 15px; border-radius: 8px; margin-bottom: 20px;
     transition: 0.3s; background: #fafafa;
+    width: 100%; /* S'assure que les cartes utilisent toute la largeur */
+    box-sizing: border-box;
   }
   .project-card:hover { box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-color: #3498db; }
   .btn-git {
