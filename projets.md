@@ -33,7 +33,7 @@ Retrouvez ici une sélection de mes travaux en science des données. Ces projets
 ---
 
 <div class="project-card">
-  <h3>🏠 Prédiction Immobilière - Boston Housing (Régression)</h3>
+  <h3>Prédiction Immobilière - Boston Housing (Régression)</h3>
   <strong>Objectif :</strong> Prédire la valeur médiane des logements en analysant les variables socio-économiques.<br>
   <ul>
     <li><strong>Rigueur Statistique :</strong> Traitement des outliers (méthode IQR) permettant de passer d'un R² de 0.66 à <strong>0.75</strong>.</li>
@@ -43,7 +43,7 @@ Retrouvez ici une sélection de mes travaux en science des données. Ces projets
 </div>
 
 <div class="project-card">
-  <h3>💎 Diamonds Price Prediction (Random Forest)</h3>
+  <h3>Diamonds Price Prediction (Random Forest)</h3>
   <strong>Objectif :</strong> Prédire le prix de +50 000 diamants selon leurs caractéristiques physiques.<br>
   <ul>
     <li><strong>Résultat :</strong> Score <strong>R² de 0.98</strong>, capturant les relations non-linéaires entre le carat et la clarté.</li>
@@ -53,7 +53,7 @@ Retrouvez ici une sélection de mes travaux en science des données. Ces projets
 </div>
 
 <div class="project-card">
-  <h3>🍷 Wine Classification (SVM)</h3>
+  <h3>Wine Classification (SVM)</h3>
   <strong>Objectif :</strong> Identifier l'origine de vins italiens via leur signature chimique.<br>
   <ul>
     <li><strong>Performance :</strong> <strong>97% de précision</strong> grâce à une normalisation StandardScaler et un noyau linéaire SVM.</li>
@@ -63,7 +63,7 @@ Retrouvez ici une sélection de mes travaux en science des données. Ces projets
 </div>
 
 <div class="project-card">
-  <h3>🐧 Penguin Segmentation (K-Means Clustering)</h3>
+  <h3>Penguin Segmentation (K-Means Clustering)</h3>
   <strong>Objectif :</strong> Découvrir des structures morphologiques cachées via l'apprentissage non-supervisé.<br>
   <ul>
     <li><strong>Méthode :</strong> Optimisation du nombre de clusters via la <strong>Méthode du Coude (Elbow Method)</strong>.</li>
