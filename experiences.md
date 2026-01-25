@@ -30,7 +30,7 @@ title: Expériences & Compétences - Yacine Yefsah
 
 # 💼 Expériences & Compétences
 
-<h2 class="section-title">🛠️ Langages & Systèmes</h2>
+<h2 class="section-title">Langages & Systèmes</h2>
 <div class="skill-container">
   <span class="skill-badge skill-badge-tech">Python</span>
   <span class="skill-badge skill-badge-tech">R</span>
@@ -42,7 +42,7 @@ title: Expériences & Compétences - Yacine Yefsah
   <span class="skill-badge skill-badge-tech">Oracle</span>
 </div>
 
-<h2 class="section-title">💻 Environnements & Outils</h2>
+<h2 class="section-title">Environnements & Outils</h2>
 <div class="skill-container">
   <span class="skill-badge skill-badge-tools">VS Code</span>
   <span class="skill-badge skill-badge-tools">Jupyter Notebook</span>
@@ -54,7 +54,7 @@ title: Expériences & Compétences - Yacine Yefsah
   <span class="skill-badge skill-badge-tools">Pack Office</span>
 </div>
 
-<h2 class="section-title">📊 Expertise Métier</h2>
+<h2 class="section-title">Expertise Métier</h2>
 <div class="skill-container">
   <span class="skill-badge skill-badge-metier">Modélisation statistique</span>
   <span class="skill-badge skill-badge-metier">Machine Learning (Scikit-Learn)</span>
@@ -63,7 +63,7 @@ title: Expériences & Compétences - Yacine Yefsah
   <span class="skill-badge skill-badge-metier">Analyse décisionnelle</span>
 </div>
 
-<h2 class="section-title">👨‍💻 Expériences Professionnelles</h2>
+<h2 class="section-title">Expériences Professionnelles</h2>
 
 <div class="exp-card">
   <div class="exp-date">Stage Académique</div>
@@ -81,7 +81,7 @@ title: Expériences & Compétences - Yacine Yefsah
   <p>Développement de compétences transversales : Gestion du stress, travail d'équipe en flux tendu, organisation et relation client.</p>
 </div>
 
-<h2 class="section-title">🧠 Soft Skills</h2>
+<h2 class="section-title">Soft Skills</h2>
 <div class="skill-container">
   <span class="skill-badge">Rigoureux</span>
   <span class="skill-badge">Curieux</span>
