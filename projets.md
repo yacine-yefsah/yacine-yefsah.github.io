@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mes Projets - Yacine Yefsah
+title: Mes Projets 
 ---
 
 <style>
