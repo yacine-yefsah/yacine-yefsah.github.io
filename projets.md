@@ -21,7 +21,7 @@ Retrouvez ici mes réalisations en Machine Learning, Modélisation et Optimisati
 **Objectif :** Prédire le prix de +50 000 diamants selon leurs caractéristiques physiques.
 - **Résultat :** Score **$R^2$ de 0.98**, capturant les relations non-linéaires entre le carat et la clarté.
 - **Outils :** Random Forest Regressor, One-Hot Encoding.
-[Voir le Repo GitHub](https://github.com/yacine-yefsah/Diamonds-Price-Prediction-ML)  {: .btn .btn-purple}
+[Voir le Repo GitHub](https://github.com/yacine-yefsah/Diamonds-Price-Prediction-ML)  
 
 ---
 
@@ -29,7 +29,7 @@ Retrouvez ici mes réalisations en Machine Learning, Modélisation et Optimisati
 **Objectif :** Identifier l'origine de vins italiens via leur signature chimique.
 - **Performance :** **97% de précision** grâce à une normalisation StandardScaler et un noyau linéaire SVM.
 - **Outils :** Support Vector Machine, Matrice de Confusion.
-[Voir le Repo GitHub](https://github.com/yacine-yefsah/Support_Vector_Machine-SVM-) {: .btn .btn-purple}
+[Voir le Repo GitHub](https://github.com/yacine-yefsah/Support_Vector_Machine-SVM-) 
 
 ---
 
@@ -37,7 +37,7 @@ Retrouvez ici mes réalisations en Machine Learning, Modélisation et Optimisati
 **Objectif :** Découvrir des structures morphologiques cachées via l'apprentissage non-supervisé.
 - **Méthode :** Optimisation du nombre de clusters via la **Méthode du Coude (Elbow Method)**.
 - **Outils :** K-Means, Analyse des centroïdes.
-[Voir le Repo GitHub](https://github.com/yacine-yefsah/K-Means_Clustering) {: .btn .btn-purple}
+[Voir le Repo GitHub](https://github.com/yacine-yefsah/K-Means_Clustering) 
 
 ---
 
