@@ -14,8 +14,3 @@ Bienvenue sur mon portfolio professionnel. Je me spécialise dans la statistique
 - **LinkedIn :** [YEFSAH Yacine](https://www.linkedin.com/in/yacine-yefsah-00a152290/)
 - **Email :** [yyacine2909@gmail.com](yyacine2909@gmail.com)
 - **Ville :** Caen, France
-
----
-
-[📁 Voir mes Projets]({{ site.baseurl }}/projets.html) {: .btn}
-[💼 Mon Parcours]({{ site.baseurl }}/experiences.html) {: .btn}
