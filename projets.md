@@ -9,23 +9,23 @@ Retrouvez ici mes réalisations en Machine Learning, Modélisation et Optimisati
 
 ---
 
-### 🏠 1. Prédiction Immobilière - Boston Housing (Régression)
+### Prédiction Immobilière - Boston Housing (Régression)
 **Objectif :** Prédire la valeur médiane des logements en analysant les variables socio-économiques.
-- **Rigueur Statistique :** Traitement des outliers (méthode IQR) permettant de passer d'un $R^2$ de 0.66 à **0.75**.
+- **Rigueur Statistique :** Traitement des outliers (méthode IQR) permettant de passer d'un R² de 0.66 à **0.75**.
 - **Outils :** Python, Scikit-Learn, Seaborn.
 [Voir le Repo GitHub](https://github.com/yacine-yefsah/Immobilier-Prediction-ML) 
 
 ---
 
-### 💎 2. Diamonds Price Prediction (Random Forest)
+### Diamonds Price Prediction (Random Forest)
 **Objectif :** Prédire le prix de +50 000 diamants selon leurs caractéristiques physiques.
-- **Résultat :** Score **$R^2$ de 0.98**, capturant les relations non-linéaires entre le carat et la clarté.
+- **Résultat :** Score R² de 0.98**, capturant les relations non-linéaires entre le carat et la clarté.
 - **Outils :** Random Forest Regressor, One-Hot Encoding.
 [Voir le Repo GitHub](https://github.com/yacine-yefsah/Diamonds-Price-Prediction-ML)  
 
 ---
 
-### 🍷 3. Wine Classification (SVM)
+### Wine Classification (SVM)
 **Objectif :** Identifier l'origine de vins italiens via leur signature chimique.
 - **Performance :** **97% de précision** grâce à une normalisation StandardScaler et un noyau linéaire SVM.
 - **Outils :** Support Vector Machine, Matrice de Confusion.
@@ -33,7 +33,7 @@ Retrouvez ici mes réalisations en Machine Learning, Modélisation et Optimisati
 
 ---
 
-### 🐧 4. Penguin Segmentation (K-Means Clustering)
+### Penguin Segmentation (K-Means Clustering)
 **Objectif :** Découvrir des structures morphologiques cachées via l'apprentissage non-supervisé.
 - **Méthode :** Optimisation du nombre de clusters via la **Méthode du Coude (Elbow Method)**.
 - **Outils :** K-Means, Analyse des centroïdes.
