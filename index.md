@@ -112,5 +112,5 @@ title: Accueil
 
 <div style="margin-top: 30px; text-align: center;">
   <a href="./projets.html" class="custom-btn btn-main">📁 Voir mes Projets</a>
-  <a href="./CV_Yacine_Yefsah.pdf" class="custom-btn btn-cv">📄 Télécharger mon CV</a>
+  <a href="./yacine_cv.pdf" class="custom-btn btn-cv">📄 Télécharger mon CV</a>
 </div>
