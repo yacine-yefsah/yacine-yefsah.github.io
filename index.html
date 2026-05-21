@@ -199,6 +199,20 @@
   .project-link { display: inline-flex; align-items: center; gap: 5px; color: var(--muted); text-decoration: none; font-size: 0.83rem; transition: color 0.3s; }
   .project-link:hover { color: var(--accent); }
 
+  /* PROJET MIS EN AVANT */
+  .project-card.featured {
+    border-color: rgba(108,99,255,0.4);
+    background: linear-gradient(135deg, #13131f 0%, #1a1a2e 100%);
+  }
+  .project-card.featured::before {
+    content: "✦ À la une";
+    position: absolute; top: 14px; right: 16px;
+    font-size: 0.65rem; letter-spacing: 1.5px; text-transform: uppercase;
+    color: var(--accent); font-weight: 600;
+  }
+  .project-card.featured::after { opacity: 1; }
+  .project-card.featured h3 { color: #fff; }
+
   /* EXPERIENCE */
   .exp-timeline { position: relative; }
   .exp-timeline::before {
@@ -342,8 +356,24 @@
       <div class="project-stat">CA potentiellement sauvé &rarr; 1 280 634 &euro;</div><br>
       <a href="https://github.com/yacine-yefsah/shopnow-data-analyst" class="project-link" target="_blank">Voir le projet</a>
     </div>
-    <div class="project-card">
+    <div class="project-card featured">
       <div class="project-num">Projet 02</div>
+      <h3>Prédiction du Turnover RH</h3>
+      <div class="project-algo">Python · Gradient Boosting · Scikit-Learn · SMOTE</div>
+      <p class="project-desc">Identification des profils d&rsquo;employés à risque de départ dans une entreprise perdant 16.1% de ses effectifs chaque année. Modèle Gradient Boosting entraîné sur 1 470 employés et 35 variables RH.</p>
+      <div class="project-stat">AUC &rarr; 0.774</div><br>
+      <a href="https://github.com/yacine-yefsah/HR-Attrition-Prediction" class="project-link" target="_blank">Voir le projet &rarr;</a>
+    </div>
+    <div class="project-card featured">
+      <div class="project-num">Projet 03</div>
+      <h3>Prédiction du Churn Client &mdash; Télécommunications</h3>
+      <div class="project-algo">Python · Gradient Boosting · Scikit-Learn · SMOTE</div>
+      <p class="project-desc">Détection des clients à risque de résiliation dans une entreprise de télécommunications perdant 27% de sa clientèle. Modèle entraîné sur 7 043 clients et 21 variables comportementales.</p>
+      <div class="project-stat">AUC &rarr; 0.861</div><br>
+      <a href="https://github.com/yacine-yefsah/Telco-Churn-Prediction" class="project-link" target="_blank">Voir le projet &rarr;</a>
+    </div>
+    <div class="project-card">
+      <div class="project-num">Projet 04</div>
       <h3>Diamonds Price Prédiction</h3>
       <div class="project-algo">Random Forest Regressor</div>
       <p class="project-desc">Modélisation du prix de +50 000 diamants selon leurs caractéristiques physiques. Gestion des relations non-linéaires entre le carat, la clarté et la couleur.</p>
@@ -351,15 +381,15 @@
       <a href="https://github.com/yacine-yefsah/Diamonds-Price-Prediction-ML" class="project-link" target="_blank">Voir sur GitHub &rarr;</a>
     </div>
     <div class="project-card">
-      <div class="project-num">Projet 03</div>
+      <div class="project-num">Projet 05</div>
       <h3>Boston Housing Prédiction</h3>
-      <div class="project-algo">Régression linéaire optimisee</div>
+      <div class="project-algo">Régression linéaire optimisée</div>
       <p class="project-desc">Prédiction de la valeur médiane des logements. Amélioration significative par traitement des outliers via la méthode IQR.</p>
       <div class="project-stat">R&sup2; : 0.66 &rarr; 0.75</div><br>
       <a href="https://github.com/yacine-yefsah/Immobilier-Prediction-ML" class="project-link" target="_blank">Voir sur GitHub &rarr;</a>
     </div>
     <div class="project-card">
-      <div class="project-num">Projet 04</div>
+      <div class="project-num">Projet 06</div>
       <h3>Wine Classification</h3>
       <div class="project-algo">Support Vector Machine (SVM)</div>
       <p class="project-desc">Identification de l&rsquo;origine chimique de vins italiens. Normalisation StandardScaler et noyau linéaire pour une précision maximale.</p>
@@ -367,7 +397,7 @@
       <a href="https://github.com/yacine-yefsah/Support_Vector_Machine-SVM-" class="project-link" target="_blank">Voir sur GitHub &rarr;</a>
     </div>
     <div class="project-card">
-      <div class="project-num">Projet 05</div>
+      <div class="project-num">Projet 07</div>
       <h3>Penguin Segmentation</h3>
       <div class="project-algo">K-Means Clustering</div>
       <p class="project-desc">Découverte de structures morphologiques cachées par apprentissage non-supervisé. Optimisation du nombre de clusters via la méthode du coude.</p>
